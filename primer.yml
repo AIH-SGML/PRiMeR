@@ -1,0 +1,25 @@
+name: primer
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.8
+  - pip
+  - tqdm
+  - numpy
+  - scipy
+  - statsmodels
+  - pytorch::pytorch
+  - pytorch::pytorch-cuda
+  - nvidia::cudatoolkit
+  - pandas
+  - anndata
+  - pandas-plink
+  - scikit-learn
+  - matplotlib
+  - seaborn
+  - pyarrow
+  - pyyaml
+  - notebook
+  - bed-reader
+    
