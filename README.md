@@ -4,9 +4,8 @@ Code for the paper: "Genetics-driven Risk Predictions leveraging the Mendelian R
 
 ## Citation
 If you use this package, please cite:
-```
+
 Sens D, Shilova L, Gräf L, Grebenshchikova M, Eskofier BM, Casale FP. Genetics-driven risk predictions leveraging the Mendelian randomization framework. Genome Res. 2024 (in press). doi: 10.1101/gr.279252.124.
-```
 
 ## Installation
 If you want to run the showcase notebook and adapt the code please run:
