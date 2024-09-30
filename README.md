@@ -1,11 +1,24 @@
 # PRiMeR
 
-Code for the paper: "Genetics-driven Risk Predictions leveraging the Mendelian Randomization framework" to appear in Genome Research (doi:10.1101/gr.279252.124) and presented at [RECOMB 2024](https://recomb.org/recomb2024/accepted_papers.html) .
+Code for the paper: "Genetics-driven Risk Predictions leveraging the Mendelian Randomization framework" presented at [RECOMB 2024](https://recomb.org/recomb2024/accepted_papers.html) and published in [Genome Research](https://www.genome.org/cgi/doi/10.1101/gr.279252.124)
 
 ## Citation
-If you use this package, please cite:
+If you find our code usefull for your work, please cite it as:
 
-Sens D, Shilova L, Gräf L, Grebenshchikova M, Eskofier BM, Casale FP. Genetics-driven risk predictions leveraging the Mendelian randomization framework. Genome Res. 2024 (in press). doi: 10.1101/gr.279252.124.
+```
+@ARTICLE{Sens2024,
+  title     = "Genetics-driven risk predictions leveraging the Mendelian
+               randomization framework",
+  author    = "Sens, Daniel and Shilova, Liubov and Gr{\"a}f, Ludwig and
+               Grebenshchikova, Maria and Eskofier, Bjoern M and Casale,
+               Francesco Paolo",
+  journal   = "Genome Research",
+  publisher = "Cold Spring Harbor Laboratory",
+  month     =  sep,
+  year      =  2024,
+  url       = "https://www.genome.org/cgi/doi/10.1101/gr.279252.124"
+}
+```
 
 ## Installation
 If you want to run the showcase notebook and adapt the code please run:
